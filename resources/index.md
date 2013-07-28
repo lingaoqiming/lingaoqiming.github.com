@@ -1,7 +1,8 @@
 ---
-Time-stamp: <2013-07-28 16:49:18 ()>
+Time-stamp: <2013-07-28 17:26:09 ()>
 layout: default
 title: Resources
+tagline: <img src="/images/pylon.png" height="30px" /> Under Construction
 ---
 
 This page contains a collection of CS related resources for a handful

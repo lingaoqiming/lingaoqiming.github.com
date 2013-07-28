@@ -1,7 +1,8 @@
 ---
-Time-stamp: <2013-07-27 19:57:23 ()>
+Time-stamp: <2013-07-28 17:26:58 ()>
 layout: default
 title: "Projects"
+tagline: <img src="/images/pylon.png" height="30px" /> Under Construction
 ---
 
 {% for page in site.pages %}

@@ -1,5 +1,5 @@
 ---
-Time-stamp: <2013-07-27 17:29:53 ()>
+Time-stamp: <2013-07-28 17:26:35 ()>
 layout: default
 title: "My Blog"
 tagline: "Sporadic at best."
