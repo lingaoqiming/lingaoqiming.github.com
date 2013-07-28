@@ -337,6 +337,10 @@ nav ol {
   list-style-image: none;
 }
 
+li .heading {
+  color: #C17DF1;
+}
+
 /* =============================================================================
    Embedded content
    ========================================================================== */
@@ -536,12 +540,12 @@ body {
   font-weight: normal;
   background: #252525;
   background-attachment: fixed !important;
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #2a2a29), color-stop(100%, #1c1c1c));
-  background: -webkit-linear-gradient(#2a2a29, #1c1c1c);
-  background: -moz-linear-gradient(#2a2a29, #1c1c1c);
-  background: -o-linear-gradient(#2a2a29, #1c1c1c);
-  background: -ms-linear-gradient(#2a2a29, #1c1c1c);
-  background: linear-gradient(#2a2a29, #1c1c1c);
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #101010), color-stop(100%, #050505));
+  background: -webkit-linear-gradient(#101010, #050505);
+  background: -moz-linear-gradient(#101010, #050505);
+  background: -o-linear-gradient(#101010, #050505);
+  background: -ms-linear-gradient(#101010, #050505);
+  background: linear-gradient(#101010, #050505);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -580,12 +584,12 @@ h3 {
 }
 
 a {
-  color: #ffcc00;
+  color: #DF8744;
   font-weight: 400;
   text-decoration: none;
 }
 a:hover {
-  color: #ffeb9b;
+  color: #FFB774;
 }
 
 a small {
@@ -604,8 +608,28 @@ strong {
   font-weight: normal;
 }
 
+#sidebar {
+  position: fixed;
+  top: 150px;
+  left: 20px;
+}
+
+
+#sidebar a{
+  color: #07A5A8;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+#sidebar a:hover{
+  color: #27C5C8;
+  font-weight: 400;
+  text-decoration: none;
+
+}
+
 .wrapper {
-  max-width: 650px;
+  max-width: 750px;
   margin: 0 auto;
   position: relative;
   padding: 0 20px;
@@ -708,6 +732,23 @@ dt {
   -o-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
 }
+
+#header .title {
+  color: #858585;
+  float: left;
+  font-size: 35px;
+  font-weight: 550;
+  padding: 2px 20px;
+}
+
+#header .title a{
+  color: #858585;
+}
+
+#header .title a:hover{
+  color: #606060;
+}
+
 #header nav {
   max-width: 650px;
   margin: 0 auto;
@@ -715,6 +756,7 @@ dt {
   background: blue;
   margin: 6px auto;
 }
+
 #header nav li {
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
@@ -727,13 +769,13 @@ dt {
 }
 #header nav li a {
   color: white;
-  border: 1px solid #5d910b;
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #93bd20), color-stop(100%, #659e10));
-  background: -webkit-linear-gradient(#93bd20, #659e10);
-  background: -moz-linear-gradient(#93bd20, #659e10);
-  background: -o-linear-gradient(#93bd20, #659e10);
-  background: -ms-linear-gradient(#93bd20, #659e10);
-  background: linear-gradient(#93bd20, #659e10);
+  border: 1px solid #D12D2F;
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #F14D4F), color-stop(100%, #D12D2F));
+  background: -webkit-linear-gradient(#F14D4F, #D12D2F);
+  background: -moz-linear-gradient(#F14D4F, #D12D2F);
+  background: -o-linear-gradient(#F14D4F, #D12D2F);
+  background: -ms-linear-gradient(#F14D4F, #D12D2F);
+  background: linear-gradient(#F14D4F, #D12D2F);
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   -o-border-radius: 2px;
@@ -744,7 +786,7 @@ dt {
   -webkit-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.3), 0px 3px 7px rgba(0, 0, 0, 0.7);
   -o-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.3), 0px 3px 7px rgba(0, 0, 0, 0.7);
   box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.3), 0px 3px 7px rgba(0, 0, 0, 0.7);
-  background-color: #93bd20;
+  background-color: #F14D4F;
   padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
@@ -753,14 +795,14 @@ dt {
   text-align: center;
 }
 #header nav li a:hover {
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #749619), color-stop(100%, #527f0e));
-  background: -webkit-linear-gradient(#749619, #527f0e);
-  background: -moz-linear-gradient(#749619, #527f0e);
-  background: -o-linear-gradient(#749619, #527f0e);
-  background: -ms-linear-gradient(#749619, #527f0e);
-  background: linear-gradient(#749619, #527f0e);
-  background-color: #659e10;
-  border: 1px solid #527f0e;
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, ), color-stop(100%, ));
+  background: -webkit-linear-gradient(#D12D2F, #B10D0F);
+  background: -moz-linear-gradient(#D12D2F, #B10D0F);
+  background: -o-linear-gradient(#D12D2F, #B10D0F);
+  background: -ms-linear-gradient(#D12D2F, #B10D0F);
+  background: linear-gradient(#D12D2F, #B10D0F);
+  background-color: #B10D0F;
+  border: 1px solid #B10D0F;;
   -moz-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.2), 0px 1px 0px rgba(0, 0, 0, 0);
   -webkit-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.2), 0px 1px 0px rgba(0, 0, 0, 0);
   -o-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.2), 0px 1px 0px rgba(0, 0, 0, 0);
@@ -769,6 +811,7 @@ dt {
 #header nav li.fork {
   float: left;
   margin-left: 0px;
+  margin-right: 15px
 }
 #header nav li.downloads {
   float: right;
@@ -789,21 +832,21 @@ section {
 section #title {
   border: 0;
   outline: none;
-  margin: 0 0 50px 0;
+  margin: 0 0 0 0;
   padding: 0 0 5px 0;
 }
 section #title h1 {
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
-  line-height: 36px;
+  line-height: 26px;
 }
 section #title p {
   color: #d7cfbe;
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
-  font-size: 18px;
+  font-size: 14px;
   text-align: center;
 }
 section #title .credits {
@@ -817,6 +860,30 @@ section #title .credits.left {
   float: left;
 }
 section #title .credits.right {
+  float: right;
+}
+
+.post-tags, .post-tags a {
+  color: #656565;
+  font-weight: bold;
+  float: right;
+}
+
+.post-tags a:hover {
+  color: #757575;
+}
+
+footer .credits {
+  font-size: 11px;
+  font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  color: #696969;
+  margin-top: -10px;
+}
+footer .credits.left {
+  float: left;
+}
+footer .credits.right {
   float: right;
 }
 
