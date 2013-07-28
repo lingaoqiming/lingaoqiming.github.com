@@ -1,9 +1,9 @@
 ---
-Time-stamp: <2013-07-28 02:16:57 ()>
+Time-stamp: <2013-07-28 17:35:10 ()>
 layout: default
 title: EINTR Handling
 resource: true
-categories: [unix]
+categories: [code, unix]
 
 ---
 
