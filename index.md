@@ -1,10 +1,10 @@
 ---
-Time-stamp: <2013-07-27 16:15:52 ()>
+Time-stamp: <2013-07-28 20:47:38 ()>
 layout: default
 title: "Matt Renaud"
 ---
 
-## A Brief Introduction
+# A Brief Introduction
 
 Hey there! My name is Matt Renaud, I am a fourth year computer science
 student at the University of Windsor and you can find me most places
@@ -31,9 +31,9 @@ forward to it. I eventually want to do a start-up (who does not?), but
 like most people, I have not found an idea I deem *good enough* to
 actually pursue veraciously.
 
-## Interests
+# Interests
 
-### Tech/CS Related
+## Tech/CS Related
 
 When it comes to technology, the list of interests that I have is
 quite long, and unfortunately, there isn't enough time in the day to
@@ -70,7 +70,7 @@ here:
   experience into the advantages, difficulties, and drawbacks of the
   design of distributed systems.
 
-### Non-technology Related
+## Non-technology Related
 
 I absolutely love being outside whenever I can, which as you can
 imagine, clashes epically with my career choice as a computer
@@ -106,7 +106,7 @@ scientist (although not in all cases).
   much as GEB.
 
 
-## About This Site
+# About This Site
 
 This site is hosted on GitHub pages and powered by Jekyll. See the
 credits page for more information.

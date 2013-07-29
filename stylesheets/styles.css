@@ -535,7 +535,7 @@ table {
 body {
   padding: 0px 0 20px 0px;
   margin: 0px;
-  font: 14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 18px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #f0e7d5;
   font-weight: normal;
   background: #252525;
@@ -564,11 +564,14 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 28px;
+  font-family: 'OpenSansBold', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-size: 34px;
+  line-height: 50px;
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 28px;
+
 }
 
 h4, h5, h6 {
@@ -838,7 +841,7 @@ section #title {
 section #title h1 {
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
-  font-size: 30px;
+  font-size: 34px;
   text-align: center;
   line-height: 26px;
 }
