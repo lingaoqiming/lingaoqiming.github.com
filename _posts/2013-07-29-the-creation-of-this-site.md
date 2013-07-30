@@ -1,19 +1,19 @@
 ---
-Time-stamp: <2013-07-28 20:52:02 ()>
+Time-stamp: <2013-07-29 23:46:48 ()>
 layout: default
 title: "The Creation of This Site"
 tags: [meta]
 
 ---
 
-Since I just put together my site I do not have any posts, so I'm
+Since I just put together my site I don't have any posts, so I'm
 going to make my first post about how I built the site that allowed me
 to make this post. If you are looking to start a site, feel free to
 take anything that you find here, just if you use something that
 someone else is the author of, give [credit](/credits) to them.  I
-will be sure to mention along the way if I was not the original offer
+will be sure to mention along the way if I was not the original author
 or if it was influenced by someone else. If it is something that I
-wrote, you do not need to credit me (although you can if you would
+wrote, you don't need to credit me (although you can if you would
 like), I just hope that it is useful.
 
 

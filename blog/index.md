@@ -1,5 +1,5 @@
 ---
-Time-stamp: <2013-07-29 21:11:53 ()>
+Time-stamp: <2013-07-29 22:58:01 ()>
 layout: default
 title: "My Blog"
 tagline: "Sporadic at best."
@@ -17,7 +17,7 @@ nothing here now. I'll get around to writing some eventually.
 	<a href="{{ post.url }}">{{ post.title }}</a>
 	<span class="post-tags">
 	{% for tag in post.tags %}
-	  {{ tag }} &nbsp;
+	  <span class="accent">{{ tag }}</span> &nbsp;
 	{% endfor %}
 	</span>
   </li>
