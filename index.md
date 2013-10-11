@@ -1,5 +1,5 @@
 ---
-Time-stamp: <2013-07-29 21:09:58 ()>
+Time-stamp: <2013-10-11 11:37:25 ()>
 layout: default
 title: "Matt Renaud"
 ---
@@ -9,13 +9,11 @@ title: "Matt Renaud"
 Hey there! My name is Matt Renaud, I'm a fourth year computer science
 student at the University of Windsor and you can find me most places
 online going by the name mrenaud92 (since mrenaud is taken almost
-everywhere, except for domain names apparently, go figure). A lot of
-my friends call me a nerd but I much prefer going by the term
-*knowledge enthusiast*. I really enjoy learning, regardless of what
-subject, but my main area of interest is, as you can guess from my
-major, Computer Science. I will be graduating at the end of next year
-and I have no clue whether I want to do graduate work or work full
-time, good thing I still have another year to decide!
+everywhere, except for domain names apparently, go figure). I really
+enjoy learning, regardless of what subject, but my main area of
+interest is, as you can guess from my major, Computer Science. I will
+be graduating in June and starting a full time position as a software
+engineer at Google in Mountain View California.
 
 I was first introduced to Computer Science (well, just Linux actually)
 around 4 years ago by my uncle Roland and was instantly intrigued when
