@@ -16,18 +16,11 @@ be graduating in June and starting a full time position as a software
 engineer at Google in Mountain View California.
 
 I was first introduced to Computer Science (well, just Linux actually)
-around 4 years ago by my uncle Roland and was instantly intrigued when
+around 5 years ago by my uncle Roland and was instantly intrigued when
 I saw him banging away at the terminal and stuff was happening! It
 turns out that I was somewhat technology sheltered up until that
 point.
 
-I am currently working as a software engineering intern at IBM and
-I've had a chance to work on some really cool projects.  I'm really
-enjoying my job so it's going to be a little bittersweet when I head
-back to school, but I really enjoy school so I'm also kinda looking
-forward to it. I eventually want to do a start-up (who doesn't?), but
-like most people, I have not found an idea I deem *good enough* to
-actually pursue veraciously.
 
 # Interests
 
