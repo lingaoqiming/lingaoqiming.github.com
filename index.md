@@ -1,5 +1,5 @@
 ---
-Time-stamp: <2013-10-11 11:37:25 ()>
+Time-stamp: <2014-02-15 15:31:09 ()>
 layout: default
 title: "Matt Renaud"
 ---
@@ -62,6 +62,13 @@ here:
   time working on the project really gave me a lot of insight and
   experience into the advantages, difficulties, and drawbacks of the
   design of distributed systems.
+
+- <span class="heading">Graphics and Computer Vision</span>
+
+  This semester I decided to take a class on computer graphics using
+  OpenGL and I've been having a lot of fun learning about it and I'm
+  finding it incredibly interesting. Hopefully at some point in the
+  future I'll have a chance to use what I've learned.
 
 ## Non-technology Related
 
