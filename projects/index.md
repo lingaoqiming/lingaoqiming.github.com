@@ -1,5 +1,5 @@
 ---
-Time-stamp: <2013-07-28 17:26:58 ()>
+Time-stamp: <2014-03-07 15:11:42 ()>
 layout: default
 title: "Projects"
 tagline: <img src="/images/pylon.png" height="30px" /> Under Construction
@@ -10,6 +10,3 @@ tagline: <img src="/images/pylon.png" height="30px" /> Under Construction
 - [{{ page.title }}]({{ page.url }}) {{ page.description }}
 {% endif %}
 {% endfor %}
-
-
-
