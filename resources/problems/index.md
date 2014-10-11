@@ -1,14 +1,21 @@
 ---
-Time-stamp: <2014-10-11 11:56:36 ()>
+Time-stamp: <2014-10-11 12:48:10 ()>
 layout: default
-title: "Palindrome"
-resource: true
-categories: [problems]
-desc: "Simple programming problem involving palindromes"
-
+title: Problems
+tagline: <img src="/images/pylon.png" height="30px" /> Under Construction
 ---
 
-Using C++ (Java), write a function that takes a `vector`(`ArrayList`)
-of type `T` and returns `true` if the container is a palindrome and
-`false` otherwise. Assume that `operator ==` (`equals()`) is defined
-for type `T`.
+
+{% for difficulty in site.difficulty-levels %}
+<ul>
+{% for page in site.pages %}
+{% if page.problem == true %}
+{% if page.difficulty == difficulty %}
+<li>
+  <a href="{{ page.url }}">{{ page.title }}</a> &mdash; {{ page.desc }}
+</li>
+{% endif %} <!-- difficulty-match-p -->
+{% endif %} <!-- problem-p -->
+{% endfor %} <!-- page -->
+</ul>
+{% endfor %} <!-- difficulty -->
