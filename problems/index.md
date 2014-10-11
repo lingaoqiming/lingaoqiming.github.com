@@ -1,12 +1,16 @@
 ---
-Time-stamp: <2014-10-11 12:53:03 ()>
+Time-stamp: <2014-10-11 12:59:03 ()>
 layout: default
 title: Problems
 tagline: <img src="/images/pylon.png" height="30px" /> Under Construction
 ---
 
+This page contains a collection of programming problems. Being able to
+solve these problems proficiently is a good start if you are planning
+on applying for an internship or full time position at a tech company.
 
 {% for diff in site.difficulty-levels %}
+### {{ diff }}
 <ul>
 {% for page in site.pages %}
 {% if page.problem == true %}
