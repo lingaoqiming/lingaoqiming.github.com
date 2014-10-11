@@ -1,19 +1,19 @@
----
-Time-stamp: <2014-02-15 15:31:09 ()>
+--- 
+Time-stamp: <2014-10-11 11:11:11 ()>
 layout: default
 title: "Matt Renaud"
 ---
 
 # A Brief Introduction
 
-Hey there! My name is Matt Renaud, I'm a fourth year computer science
-student at the University of Windsor and you can find me most places
-online going by the name mrenaud92 (since mrenaud is taken almost
-everywhere, except for domain names apparently, go figure). I really
-enjoy learning, regardless of what subject, but my main area of
-interest is, as you can guess from my major, Computer Science. I will
-be graduating in June and starting a full time position as a software
-engineer at Google in Mountain View California.
+Hey there! My name is Matt Renaud and I'm a software engineer at
+Google Inc. working on Search Infrastructure. You can find me most
+places online going by the name mrenaud92 (since mrenaud is taken
+almost everywhere, except for domain names apparently, go figure). I
+really enjoy learning, regardless of what subject, but my main area of
+interest is Computer Science. I graduated in June and have just
+recently started a full time position as a software engineer at Google
+in Mountain View California.
 
 I was first introduced to Computer Science (well, just Linux actually)
 around 5 years ago by my uncle Roland and was instantly intrigued when
@@ -28,16 +28,11 @@ point.
 
 When it comes to technology, the list of interests that I have is
 quite long, and unfortunately, there isn't enough time in the day to
-explore all of them when you take into account work, school, and all
-the other things that take up time. So, I'll just put a small list
-here:
+explore all of them so, I'll just put a small list here:
 
 - <span class="heading">Artificial Intelligence</span>
 
-  More specifically multi-agent planning, although I haven't had much
-  time to explore this. I think that what
-  [Anki Drive](http://anki.com/) is doing is really awesome. I looked
-  at their job posting... I have a lot of work to do!
+  I'm really excited where this is going to take us in the future.
 
 - <span class="heading">Programming Languages</span>
 
@@ -82,12 +77,8 @@ scientist (although not in all cases).
   what I do. I do like to go to the gym, I also enjoy interval
   training, boot camps, and kickboxing. Regurlarly exercising really
   keeps me sane, especially throughout the school year when I have a
-  lot of work to do.
-
-  If it's nice and I'm not working or studying, I'm likely to be
-  outside going for a walk, a run, a bike ride, or just relaxing in
-  the radiation of Sol.
-
+  lot of work to do. Since I have moved I have also started rock
+  climbing, beach volleyball, ultimate frisbee and mountain biking.
 
 - <span class="heading">Reading</span>
 
@@ -105,6 +96,11 @@ scientist (although not in all cases).
   will even encounter a book that has changed the way that I think as
   much as GEB.
 
+  I have also started reading some of Asimov's work including his
+  robot novels and the foundation series and I've really enjoyed
+  them. I recently read Ender's Game and am currently working my way
+  through Dune.
+  
 
 # About This Site
 
