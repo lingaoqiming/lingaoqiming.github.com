@@ -13,4 +13,4 @@ permalink: /blog/:year/:month/:day/:title
 
 production_url: http://mrenaud.ca
 
-category-list: [code, cs, editors, math, unix]
+category-list: [code, cs, editors, math, unix, problems]
