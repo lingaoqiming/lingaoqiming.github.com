@@ -1,17 +1,12 @@
 # -*- mode: conf; -*-
 
-top-title: mrenaud
-top-tagline: Knowledge Enthusiast
+top-title: 临高启明
+
 author:
-  name: Matt Renaud
-  email: mrenaud92@gmail.com
-  github: mrenaud92
+  name: lingaoqiming
+  email: lingaoqiming2104@sina.com
+  github: lingaoqiming
 
 markdown: rdiscount
-pygments: true
-permalink: /blog/:year/:month/:day/:title
-
-production_url: http://mrenaud.ca
-
-category-list: [code, cs, editors, math, unix]
-difficulty-levels: [easy, moderate, hard]
+permalink:  none
+production_url: http://lingaoqiming.github.io/

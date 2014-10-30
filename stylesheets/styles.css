@@ -341,12 +341,25 @@ strong {
   text-decoration: none;
 }
 
+#sidebar a.navactive{
+  color: #f0e7d5;
+  font-weight: 400;
+  text-decoration: none;
+}
+
 #sidebar a:hover{
-  color: #27C5C8;
+  color: #f0e7d5;
   font-weight: 400;
   text-decoration: none;
 
 }
+#header img{float:left}
+#header a{color: #858585;float:left;padding:0 30px;}
+
+.pagination{height:36px;margin:18px 0;}
+.pagination a{float:left;padding:0 25px;}
+.pagination li{display:inline;}
+.pagination .disabled a,.pagination .disabled a:hover{background-color:transparent;color:#858585;}
 
 .wrapper {
   max-width: 750px;
