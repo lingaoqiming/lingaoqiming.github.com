@@ -35,10 +35,9 @@ layout: layout
           <li class="prev disabled"><a>上一节</a></li>
         {% endif %}
           <li><a href="{{ BASE_PATH }}{{ category_url }}">回目录</a></li>
-          {{% assgin edit_base="https://github.com/lingaoqiming/lingaoqiming.github.com/blob/master/_posts/"%}}
-          <li><a href="{{edit_base}}{{page.path}}">编辑本页</a></li>
+          <li><a href="https://github.com/lingaoqiming/lingaoqiming.github.com/tree/master/_posts/{{page.path}}">编辑本页</a></li>
         {% if page.next %}
-          <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">下一节 </a></li>
+          <li class="next"><a href="{{BASE_PATH}}{{ page.next.url }}" title="{{ page.next.title }}">下一节 </a></li>
         {% else %}
           <li class="next disabled"><a>下一节 </a>
         {% endif %}
