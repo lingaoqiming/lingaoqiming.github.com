@@ -7,12 +7,14 @@
 
 #用法：
 
-首先在github上注册用户。
+在github上注册用户。
 
-点击[网站](http://lingaoqiming.github.io/)进入各具体章节。在每一章节页面下点击“页面编辑”，即可进入github页面编辑，点右上方的小笔，开始编辑。所有文件均为[markdown格式](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown)，编辑时：
+点击[网站](http://lingaoqiming.github.io/)进入各具体章节。在每一章节页面下点击“页面编辑”，即可进入github页面编辑，点右上方的小笔，进入编辑模式。所有文件均为[markdown格式](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown)，编辑时：
 - *1、文件前几行（即"---"之间的几行）用于网站控制，请勿修改*
 - 2、各行的第一个字不能是+,-,空格,*等，总之是中文字就行了
 - 3、修改中可以点左上方的"Preview changes"查看本次修改的内容
-修改结束后，点击下方的"propose file change"按钮，提交修改，按钮上方的二个文本框可以描述修改。第一个比较简短，会显示在"history"(历史),第二个可以很长，可以描述修改内容，以及为什么要这样修改。
+修改结束后，
+- 4、点击下方的"propose file change"按钮，进入提交修改页面，再按"create pull request"提交修改。这两个按钮上方会有二个文本框用于描述修改。第一个比较简短，会显示在"history"(历史)，第二个可以很长，可以描述修改内容，以及为什么要这样修改。
+
 修改提交后不会马上显示。首先要经网站（代码仓库）拥有者确认修改。确认修改后git page的jekyll引擎还要重新生成网页，这个过程要30分钟（git hub说只要10分钟，每都要20分钟以下）左右。
-文件的修改可以点上方的"history"查看。
+文件自建立以来的所有修改可以点上方的"history"查看。
