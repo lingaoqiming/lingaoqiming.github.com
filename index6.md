@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 第六卷　战争
+title: 第六卷　纷争
 category: 6
 ---
 <ul>
